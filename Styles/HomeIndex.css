@@ -1,0 +1,45 @@
+﻿.main-container{
+    display: flex;
+    flex-direction: column;
+    min-height: 60vh;
+    margin: 2rem 0;
+}
+
+h2{
+  color: white !important;
+}
+.container{
+    flex: 1
+}
+
+#myTextArea {
+    width: 100%;
+    height: 40rem;
+    max-height: 100vh;
+    max-width: 100% !important;
+}
+
+.btnRevisar {
+    margin: 2rem 0;
+}
+.navbar {
+    background: #337ab7;
+
+}
+.navbar-header a {
+    color: white !important;
+}
+.resultado {
+  border: 1px solid black;
+  height: 450px;
+  padding: 2rem;
+}
+/* #mceu_11,
+#mceu_11-body,
+#mceu_25{
+  height: 40rem;
+} */
+#divAux{
+  overflow-wrap: break-word;
+  min-width: 100%;
+}
