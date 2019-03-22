@@ -1,2 +1,2 @@
 # Autocorrector-JS
-Autocorrector de texto
+Autocorrector de texto utilizando editor tinyemc y plugin nanospell para revisión de textos.
